@@ -483,7 +483,7 @@ Wire Wire Line
 	4950 1800 4900 1800
 Wire Wire Line
 	4900 1800 4900 2000
-Text GLabel 4600 4450 2    50   Input ~ 0
+Text GLabel 4050 5200 2    50   Input ~ 0
 COL_0
 Text GLabel 4050 6400 2    50   Input ~ 0
 COL_1
@@ -497,9 +497,9 @@ Text GLabel 4050 6000 2    50   Input ~ 0
 COL_5
 Text GLabel 4050 5900 2    50   Input ~ 0
 COL_6
-Text GLabel 4600 4650 2    50   Input ~ 0
+Text GLabel 4050 4900 2    50   Input ~ 0
 COL_7
-Text GLabel 4600 4550 2    50   Input ~ 0
+Text GLabel 4050 5000 2    50   Input ~ 0
 COL_8
 Text GLabel 4050 4200 2    50   Input ~ 0
 ROW_0

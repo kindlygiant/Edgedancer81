@@ -521,9 +521,9 @@ Text GLabel 4050 3900 2    50   Input ~ 0
 ROW_9
 Text GLabel 4050 4000 2    50   Input ~ 0
 ROW_8
-Text GLabel 4050 5300 2    50   Input ~ 0
-ROW_10
 Text GLabel 4050 5400 2    50   Input ~ 0
+ROW_10
+Text GLabel 4050 5300 2    50   Input ~ 0
 ROW_11
 Text GLabel 4050 5100 2    50   Input ~ 0
 ENC_SW

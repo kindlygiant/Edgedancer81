@@ -96,36 +96,6 @@ Wire Wire Line
 Wire Wire Line
 	4050 5600 4500 5600
 $Comp
-L Device:R_Small R2
-U 1 1 5F0E6918
-P 2500 4500
-F 0 "R2" V 2696 4500 50  0000 C CNN
-F 1 "22" V 2605 4500 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 2500 4500 50  0001 C CNN
-F 3 "~" H 2500 4500 50  0001 C CNN
-	1    2500 4500
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	2600 4500 2850 4500
-$Comp
-L Device:R_Small R1
-U 1 1 5F0E9BF6
-P 2250 4600
-F 0 "R1" V 2446 4600 50  0000 C CNN
-F 1 "22" V 2355 4600 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 2250 4600 50  0001 C CNN
-F 3 "~" H 2250 4600 50  0001 C CNN
-	1    2250 4600
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	2350 4600 2850 4600
-Wire Wire Line
-	2400 4500 1850 4500
-Wire Wire Line
-	2150 4600 1850 4600
-$Comp
 L Device:C_Small C7
 U 1 1 5F0EE84C
 P 2250 5000
@@ -718,4 +688,8 @@ Wire Wire Line
 	5350 900  5350 950 
 Wire Wire Line
 	5350 950  5500 950 
+Wire Wire Line
+	1850 4600 2850 4600
+Wire Wire Line
+	1850 4500 2850 4500
 $EndSCHEMATC
